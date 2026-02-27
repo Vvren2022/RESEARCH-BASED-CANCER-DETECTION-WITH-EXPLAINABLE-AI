@@ -15,7 +15,8 @@ heatmaps, proving exactly why the model made its diagnosis. Finally, I package
 this intelligence into an automated pipeline that generates comprehensive, clinician-
 ready diagnostic reports.
 
-#What you will Learn?
+# What you will Learn?
+
 --> Advanced Deep Learning: Master the skill of building custom network architectures (PyTorch or
 TensorFlow) rather than just calling pre-trained models.
 --> Explainable AI (XAI): Learn to implement Grad-CAM, a highly sought-after skill for ensuring AI
@@ -27,7 +28,8 @@ implement their findings in code.
 --> Clinical MLOps: Understand how to format AI outputs into automated, consumable reports for
 non-technical end-users.
 
-#Why this Project?
+# Why this Project?
+
 Research Implementation: The ability to implement a custom architecture
 (FibonacciNet) from a paper proves you are an advanced engineer, not just a
 script-kiddie.
