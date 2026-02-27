@@ -15,7 +15,7 @@ heatmaps, proving exactly why the model made its diagnosis. Finally, I package
 this intelligence into an automated pipeline that generates comprehensive, clinician-
 ready diagnostic reports.
 
-# What you will Learn?
+# What i Learn?
 
 --> Advanced Deep Learning: Master the skill of building custom network architectures (PyTorch or
 TensorFlow) rather than just calling pre-trained models.
