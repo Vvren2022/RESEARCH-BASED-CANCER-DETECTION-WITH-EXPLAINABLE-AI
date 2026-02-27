@@ -18,13 +18,17 @@ ready diagnostic reports.
 # What i Learn?
 
 --> Advanced Deep Learning: Master the skill of building custom network architectures (PyTorch or
-TensorFlow) rather than just calling pre-trained models.
+TensorFlow) rather than just calling pre-trained models. 
+
 --> Explainable AI (XAI): Learn to implement Grad-CAM, a highly sought-after skill for ensuring AI
 fairness, accountability, and transparency.
+
 --> Medical Computer Vision: Gain expertise in processing and augmenting noisy medical
 ultrasound datasets.
+
 --> Research Literacy: Develop the ability to read state-of-the-art AI research papers and
 implement their findings in code.
+
 --> Clinical MLOps: Understand how to format AI outputs into automated, consumable reports for
 non-technical end-users.
 
