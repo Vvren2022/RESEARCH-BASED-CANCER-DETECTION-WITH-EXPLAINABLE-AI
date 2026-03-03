@@ -174,3 +174,5 @@ Logs are stored in `logs/app.log` and include:
 - FibonacciNet architecture design
 - Grad-CAM implementation
 - Medical imaging community
+
+<img width="1841" height="900" alt="image" src="https://github.com/user-attachments/assets/53a5ad35-50b2-48ab-8a28-f5b3b90a04f9" />
