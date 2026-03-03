@@ -176,3 +176,6 @@ Logs are stored in `logs/app.log` and include:
 - Medical imaging community
 
 <img width="1841" height="900" alt="image" src="https://github.com/user-attachments/assets/53a5ad35-50b2-48ab-8a28-f5b3b90a04f9" />
+
+<img width="1822" height="878" alt="image" src="https://github.com/user-attachments/assets/8abcacb5-0c74-4450-a973-5a86d75e14e9" />
+
